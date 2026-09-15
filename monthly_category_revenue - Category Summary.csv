@@ -1,0 +1,7 @@
+category,total_revenue,target_revenue_inr,variance,percentage_variance,Tag,  
+Bakery,15410,12000,-3410,28.41666667,Above Target,Yes
+Dairy & Eggs,14090,16500,2410,-14.60606061,Below Target - Watch,Yes
+Fruits & Vegetables,9790,12000,2210,-18.41666667,Below Target - Critical,Yes
+Household Essentials,21715,17000,-4715,27.73529412,Above Target,Yes
+Personal Care,16382,15500,-882,5.690322581,Above Target,Yes
+Snacks & Beverages,10895,13000,2105,-16.19230769,Below Target - Critical,Yes
